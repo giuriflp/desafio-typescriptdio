@@ -1,7 +1,5 @@
 # desafio-typescriptdio
 
-# desafios-typescript-dio
-
 <h2> Desafio 1 </h2>
 // Como podemos rodar isso em um arquivo .ts sem causar erros?
  <br/>
